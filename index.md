@@ -6,7 +6,7 @@
   </head>
     <body>
        <h1>基本信息</h1>
-    <img src="基本信息.jpg">
+       <img src="基本信息.jpg">
    <ol>
       <li>身高：170cm（四舍五入）</li>
       <li>体重：53.7kg</li>
