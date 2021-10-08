@@ -11,7 +11,7 @@
       <li>身高：170cm（四舍五入）</li>
       <li>体重：53.7kg</li>
       <li>视力：...接近瞎了</li>
-      <li>专业：药学</li>
+     <li>专业：<a href="https://baike.baidu.com/item/%E8%8D%AF%E5%AD%A6/4609">药学</a></li>
       <li>王者荣耀段位：钻石</li>
    </ol>
      </body>
